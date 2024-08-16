@@ -1,4 +1,4 @@
 # astro-solid-spa
 
-inspired by https://github.com/lxsmnsyc/astro-solid-spa
-without Tailwind, ESLint and Typescript
+https://github.com/lxsmnsyc/astro-solid-spa
+but without Tailwind, ESLint and Typescript
