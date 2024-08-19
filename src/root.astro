@@ -9,7 +9,7 @@ import PageRouter from './page-router';
     {'meta' in Astro.props.data && <Fragment set:html={renderMeta(Astro.props.data)} />}
   </head>
   <body>
-    <div class="flex items-center justify-center bg-gradient-to-l from-sky-400 to-indigo-600 min-h-screen">
+    <div>
       <PageRouter
         client:load
         data={Astro.props.data}
